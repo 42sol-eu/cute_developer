@@ -1,0 +1,10 @@
+= README: templates
+andreas.felix.haeberle@gmail.com
+2021-02-07
+:lang: en
+
+== Content
+
+. file and folder template (some are zipped)
+
+TODO: complete template docs 

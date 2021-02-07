@@ -1,0 +1,8 @@
+= README: snippets
+andreas.felix.haeberle@gmail.com
+2021-02-07
+:lang: en
+
+== Content
+
+TODO: fill snippets readme

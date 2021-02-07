@@ -1,0 +1,12 @@
+= README: code
+andreas.felix.haeberle@gmail.com
+2021-02-07
+:lang: en
+
+== Content
+
+. snippets :: text blocks (partially for special apps like VS Code)
+. templates :: file and folder templates
+. guide :: coding guides structured by language and concepts.
+
+TODO: fill 
