@@ -1,0 +1,13 @@
+= README: cute developer
+andreas.felix.haeberle@gmail.com
+2021-02-07
+:lang: en
+
+== Goals
+
+Combine development resources into a working repository.
+
+== Usage
+
+. gitignore :: git/setup
+. 
